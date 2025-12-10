@@ -1,5 +1,11 @@
 # 💫 About Me:
-💻 I’m currently working on: RentTent web app 🚀<br>🤝 I’m looking to collaborate on: Flutter, Laravel & full-stack projects<br>🆘 I’m looking for help with: Advanced Laravel APIs & UI/UX polishing<br>📚 I’m currently learning: ISO 27001 security compliance & scalable web design<br>💬 Ask me about: Flutter UI tricks, Laravel shortcuts, Git power moves<br>🎯 Fun fact: I can debug faster than I can cook instant noodles 🍜⚡
+💻 Currently building: MERN apps, AI/ML mini-projects, and automation workflows with n8n.
+🤖 Exploring: Agent creation, AI workflow automation, and intelligent system design.
+🚀 Finished: RentTent — a full boarding + food-menu management platform.
+📚 Learning right now: ISO 27001 security standards, scalable web architecture, and advanced automation with n8n.
+🧠 Working on: Startup planning, client acquisition, and building service pipelines.
+💬 Ask me about: MERN tricks, Laravel shortcuts, automation flows, agent logic, and Git workflows.
+🎯 Fun fact: I break bugs faster than n8n triggers a workflow. ⚡
 
 
 ## 🌐 Socials:
