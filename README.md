@@ -3,6 +3,9 @@
 **Currently working on:**
 Shipping full-stack platforms end-to-end — from database design to deployment — while diving deep into AI/ML integration and ECG arrhythmia detection research using Deep Ensembles.
 
+**Also building:**
+H2F Solutions (Host To Fusion) — co-founder, delivering software, AI, and cloud solutions worldwide. **https://h2f.pages.dev/**
+
 **Currently learning:**
 LangChain, n8n automation, RAG pipelines, and Web3/Solidity — chasing the bleeding edge of AI engineering.
 
