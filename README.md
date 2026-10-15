@@ -1,6 +1,3 @@
-from pathlib import Path
-
-content = """<!-- Profile README for Bijon2002 -->
 
 <h1 align="center">Hey, I'm Bijon 👋</h1>
 <h3 align="center">Software Engineer · Full-Stack Developer · Applied AI</h3>
@@ -44,9 +41,6 @@ An uncertainty-aware ECG classification research project using deep ensembles to
 An interactive multiplayer learning game developed as an enterprise software project.
 
 **Stack:** React · Node.js · Express · MongoDB · Socket.IO
-
-### 🍽️ [Ordable](https://github.com/Bijon2002/Ordable)
-A restaurant ordering platform project focused on practical ordering workflows and payment-state handling.
 
 **Stack:** React · Supabase · TypeScript
 
